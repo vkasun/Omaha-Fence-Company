@@ -1,0 +1,532 @@
+
+/* 
+*   Thrasher Scheduler 
+*/
+
+.clearfix{
+    clear: both;
+}
+
+.tsch-wizard-wrap{
+    max-width: 60%;
+    margin: auto;
+    padding: 40px 0 80px;
+}
+
+/* .tsch-wizard-controls{
+    display: flex;
+}
+
+.tsch-wizard-control {
+    display: flex;
+    flex: 20% 0 0;
+    justify-content: center;
+    align-items: center;
+    background-color: #ca954a;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    font-size: 22px;
+    color: #fff;
+    padding: 20px 0;
+    font-weight: 200;
+}
+
+.tsch-wizard-control.active {
+    background-color: #013651;
+    color: #204f67;
+    font-weight: 300;
+    cursor: pointer;
+} */
+
+.tsch-wizard-tab {
+    min-height: 400px;
+    display: none;
+}
+
+.tsch-wizard-tab.active {
+    display: block;
+}
+
+.tsch-tab-body{
+    width: 100%;
+    max-width: 500px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.tsch-tab-body h3{
+    color: #013651;
+    font-size: 22px;
+}
+
+.tsch-tab-navigation{
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    display: flex;
+}
+
+.tab-nav {
+    flex: 50% 0 0;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 22px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.tab-nav.tab-nav-prev {
+    border: 2px solid #ccc;
+    color: #9b9b9b;
+    font-weight: 300;
+    margin-right: 10px;
+}
+
+.tab-nav.tab-nav-next {
+    color: #fff;
+    background: #ca954a;
+    margin-left: 10px;
+    font-weight: 300;
+}
+
+.tsch-tab-fields {
+    margin: 40px 0 60px;
+}
+
+.tsch-tab-field {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+div.tsch-tab-fields .tsch-tab-field input {
+    font-size: 20px;
+    color: #013651;
+    border: 1px solid #013651;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.tsch-tab-field input#tsch-zip_code {
+    max-width: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tsch-tab-field#zip-code {
+    text-align: center;
+}
+
+.tsch-tab-field label {
+    font-size: 14px;
+    margin: 0 0 5px 5px;
+    display: block;
+    color: #013651;
+    text-align: left;
+}
+
+/* 
+*   Specific Tabs/Fields
+*/
+.tsch-tab-field#concerns textarea {
+    width: 100%;
+    min-height: 200px;
+    border: 1px solid #013651;
+    font-size: 22px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.tsch-wizard-tab#review .tsch-tab-body{
+}
+
+.tsch-wizard-tab#review input[type=radio]{
+    display: inline-block;
+    float: left;
+    width: unset;
+    margin: 3px 15px;
+}
+
+.tsch-wizard-tab#review label{
+    text-align: left;
+    font-size: 18px;
+}
+
+input.error, textarea.error, select.error{
+    border: 2px solid red !important;
+    margin: -1px;
+}
+
+
+.tsch-wizard-controls {
+    display: flex;
+}
+
+.tsch-wizard-control-wrap {
+    flex-basis: 20%;
+    display: flex;
+    justify-content: flex-end;
+    border-top: 2px solid #9b9b9b;
+}
+
+.tsch-wizard-control-helper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -17px;
+    margin-right: -25px;
+    z-index: 10;
+    min-width: 75px;
+}
+
+div.tsch-wizard-control {
+    width: 30px;
+    height: 30px;
+    /* background: #013E5B; */
+    background: #fff;
+    border: 2px solid #9b9b9b;
+}
+
+.tsch-wizard-control-helper p {
+    font-size: 14px;
+    margin-top: 5px;
+    color: #9b9b9b;
+    font-weight: 500;
+}
+
+/* Active Controls */
+.active div.tsch-wizard-control {
+    background: #013E5B;
+    border-color: #013E5B;
+}
+
+.tsch-wizard-control-wrap.active{
+    border-color: #013E5B;
+}
+
+/* About Fields */
+.tsch-wizard-tab#about .tsch-tab-fields{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#first-name{
+    flex-basis: 50%;
+    padding-right: 5px;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#last-name{
+    flex-basis: 50%;
+    padding-left: 5px;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#street{
+    flex-basis: 100%;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#city{
+    flex-basis: 75%;
+    padding-right: 5px;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#state{
+    flex-basis: 25%;
+    padding-left: 5px;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#phone{
+    flex-basis: 50%;
+    padding-right: 5px;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#email{
+    flex-basis: 50%;
+    padding-left: 5px;
+}
+
+.tsch-wizard-tab#about .tsch-tab-field#what-prompted{
+    flex-basis: 100%;
+}
+
+select#tsch-state{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    border-radius: 0px;
+    border: 1px solid #013D5B;
+    padding: 12px 15px;
+    width: 100%;
+    background-image: url(/wp-content/themes/wave-thrasher/img/dropdown-arrow-gray.png);
+    background-repeat: no-repeat;
+    background-position: right 12px center;    
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    color: #013651;
+}
+
+select#tsch-what_prompted{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    border-radius: 0px;
+    border: 1px solid #013D5B;
+    padding: 12px 15px;
+    width: 100%;
+    background-image: url(/wp-content/themes/wave-thrasher/img/dropdown-arrow-gray.png);
+    background-repeat: no-repeat;
+    background-position: right 12px center;    
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    color: #013651;
+}
+
+select#tsch-what_service{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    border-radius: 0px;
+    border: 1px solid #013D5B;
+    padding: 12px 15px;
+    width: 100%;
+    background-image: url(/wp-content/themes/wave-thrasher/img/dropdown-arrow-gray.png);
+    background-repeat: no-repeat;
+    background-position: right 12px center;    
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    color: #013651;
+}
+
+/* Schedule Fields */
+.tsch-wizard-tab#schedule .tsch-tab-fields > p{
+    margin-bottom: 20px;
+}
+.tsch-wizard-tab#schedule-2 .tsch-tab-fields > p{
+    margin-bottom: 20px;
+}
+
+.tsch-tab-field#ready-to-schedule{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 320px;
+    margin: auto;
+}
+
+.tsch-tab-field#ready-to-schedule input{
+    flex-basis: 5%;
+}
+
+.tsch-tab-field#ready-to-schedule label{
+    flex-basis: 95%;
+    margin: 0 0 10px 0;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.tsch-review-label.error{
+    color: red;
+    text-decoration: underline;
+}
+
+/* Schedule Timeslots */
+
+#thrasher-schedule{
+    position: relative;
+    min-height: 200px;
+}
+
+#thrasher-schedule .tsch-loading-underlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.25);
+}
+
+#thrasher-schedule .tsch-loading-gif{
+    width: 180px;
+}
+
+#thrasher-schedule input[type=radio] {
+    display: inline-block;
+    width: auto;
+    margin-right: 5px;
+}
+
+#thrasher-schedule label {
+    display: inline-block;
+}
+
+#thrasher-schedule ul{
+    display: inline-block;
+}
+
+.tsch-schedule2-label.error{
+    color: red;
+}
+
+/* Accordions */
+#tsch-form .card-body-wrap{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 220px;
+    margin: auto;
+}
+
+#tsch-form .card-body .sched-slot{
+    flex-basis: 100%;
+    display: flex;    
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#tsch-form .card-body input[type=radio] {
+    flex: 0 0 15px;
+    height: 22px;
+}
+
+#tsch-form .card-body label {
+    flex: 1 0 auto;
+    flex-shrink: 0;
+    text-align: center;
+    margin: 0 0 0 15px;
+    font-size: 20px;
+}
+
+#tsch-form .card-header{
+    cursor: pointer;
+}
+
+#tsch-form .card-header:hover{
+    background-color: rgba(0,0,0,.05);
+}
+
+#tsch-form .card-header button{
+    color: #013D5B;
+}
+
+/* Zip Tab */
+.tsch-wizard-tab#zip-code .tsch-tab-navigation{
+    justify-content: center;
+}
+
+/* Review Tab */
+#tsch-form td {
+    padding-bottom: 40px;
+}
+
+#tsch-form .review-label {
+    vertical-align: top;
+    text-align: left;
+    font-weight: 500;
+    font-size: 20px;
+    padding-right: 40px;
+    color: #013651;
+    border-right: 1px solid #013651;
+}
+
+#tsch-form .review-label span {
+    display: block;
+    font-weight: 400;
+    font-size: 16px;
+    color: #ca954a;
+    cursor: pointer;
+}
+
+#tsch-form .review-value {
+    padding-left: 40px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#tsch-form .review-value p{
+    margin: 0;
+}
+
+.tsch-wrapper{
+    margin-top: 110px;
+}
+
+/*the container must be positioned relative:*/
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
+.custom-select select {
+  display: none; /*hide original SELECT element:*/
+}
+.select-selected {
+}
+/*style the arrow inside the select element:*/
+.select-selected:after {
+  position: absolute;
+  content: "";
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+/*style the items (options), including the selected item:*/
+.select-items div,.select-selected {
+    background-color: transparent;
+    color: #013651;
+    border: 1px solid #013651;
+    padding: 10px;
+    font-size: 22px;
+    cursor: pointer;
+    user-select: none;
+}
+.select-items div{
+    background-color: #eee;
+    border-top: none;
+    color: #999;
+}
+.select-items div:first-of-type{
+    display: none;
+}
+.select-items div:hover, .select-items div.same-as-selected {
+    background-color: #fff;
+    color: #013651;
+}
+/*style items (options):*/
+.select-items {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+/*hide the items when the select box is closed:*/
+.select-hide {
+  display: none;
+}
+
+.page-template-page_thrasher-scheduler .select-items{
+    margin-top: 0;
+}
+
+.tsch-wizard-tab#confirmation{
+    display: block;
+}
+/* END - Thrasher Scheduler */

@@ -1,0 +1,167 @@
+.twitter-color-alt {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -53px -257px;
+	width: 18px;
+	height: 18px;
+}
+.twitter-color {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -77px -258px;
+	width: 20px;
+	height: 17px;
+}
+.instagram-color {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -158px -257px;
+	width: 18px;
+	height: 18px;
+}
+.pinterest-color {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -27px -278px;
+	width: 18px;
+	height: 21px;
+}
+.pinterest-color-alt {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat 0 -279px;
+	width: 20px;
+	height: 20px;
+}
+.linkedin-color {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -104px -280px;
+	width: 18px;
+	height: 18px;
+}
+.facebook-color {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -130px -280px;
+	width: 18px;
+	height: 18px;
+}
+.googleplus-color {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -51px -306px;
+	width: 22px;
+	height: 14px;
+}
+.googleplus-color-alt {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -26px -303px;
+	width: 20px;
+	height: 20px;
+}
+
+
+.twitter-black-alt {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -53px -131px;
+	width: 18px;
+	height: 18px;
+}
+.twitter-black {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -77px -132px;
+	width: 20px;
+	height: 17px;
+}
+.instagram-black {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -158px -131px;
+	width: 18px;
+	height: 18px;
+	margin-top:1px !important;
+}
+.pinterest-black {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat 0 -153px;
+	width: 20px;
+	height: 20px;
+}
+.pinterest-black-alt {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -27px -152px;
+	width: 18px;
+	height: 21px;
+}
+.linkedin-black {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -104px -154px;
+	width: 18px;
+	height: 18px;
+}
+.facebook-black {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -130px -154px;
+	width: 18px;
+	height: 18px;
+}
+.googleplus-black {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -26px -177px;
+	width: 20px;
+	height: 20px;
+}
+.googleplus-black-alt {
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -51px -180px;
+	width: 22px;
+	height: 14px;
+}
+
+.youtube-white{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat 0 -3px;
+	width: 20px;
+	height: 14px;
+}
+.facebook-white{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -130px -24px;
+	width: 18px;
+	height: 18px;
+}
+.linkedin-white{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -104px -24px;
+	width: 18px;
+	height: 18px;
+}
+
+
+.twitter-black-alt, .twitter-black, .instagram-black, .pinterest-black, .pinterest-black-alt, .linkedin-black, .facebook-black, .googleplus-black, .googleplus-black-alt {
+    opacity:1;
+    transition: opacity 0.3s;
+    -webkit-transition: opacity 0.3s;
+}
+.twitter-black-alt:hover, .twitter-black:hover, .instagram-black:hover, .pinterest-black:hover, .pinterest-black-alt:hover, .linkedin-black:hover, .facebook-black:hover, .googleplus-black:hover, .googleplus-black-alt:hover {
+    opacity:.8;
+}
+
+.facebook-blue-alt{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -1px -518px;
+	width: 12px;
+	height: 27px;
+	transform: scale(.75);
+    margin-top: -3px !important;
+}
+.twitter-blue{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -26px -523px;
+	width: 27px;
+	height: 21px;
+}
+.email-blue{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -68px -522px;
+	width: 33px;
+	height: 24px;
+}
+.copy-link-blue{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -120px -522px;
+	width: 23px;
+	height: 24px;
+	cursor: pointer;
+}
+.pinterest-white-alt{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -27px -22px;
+	width: 18px;
+	height: 21px;
+}
+.instagram-white{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -158px -1px;
+	width: 18px;
+	height: 18px;
+	margin-top:1px !important;
+}
+.facebook-black-alt{
+	background: url('/wp-content/themes/amfence/social-logos/social-logos-sprite.svg') no-repeat -79px -482px;
+	width: 12px;
+	height: 28px;
+	transform: scale(.75);
+    margin-top: -3px !important;
+}
+.social-container{
+	display:flex;
+}
+.social-container div{
+	margin:0 15px 0 0;
+}
