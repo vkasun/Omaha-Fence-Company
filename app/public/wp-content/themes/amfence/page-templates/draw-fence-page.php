@@ -66,7 +66,7 @@ get_header();
         <div id="formGravityForm">
           <div id="formGravityFormDisplay">
               <?php
-                echo do_shortcode('[gravityform id=11 name=true title=false description=false ajax=true]');
+              //  echo do_shortcode('[gravityform id=11 name=true title=false description=false ajax=true]');
               ?>
           </div>
         </div>
@@ -78,7 +78,7 @@ get_header();
 <div id="main-content2" style="display:none" class="page-width">
 
   <div class="grid" id="main-calculator" style="display: flex; justify-content:center;">
-    <div class="grid__item grid__item medium-up--one-half">
+    <div class="col-4 grid__item grid__item medium-up--one-half">
       <div id="calc-1">
           <section id="formSection">
             <h2>Draw My Fence - Get A Free Estimate!</h2>
@@ -123,7 +123,7 @@ get_header();
     </div>
   </div>
 
-  <div id="draw-visual">
+  <div id="col-6 draw-visual">
   <!--Breadcrums-->
   <div class="drawing_breadcrumb">
     <span class="fencebreadcrumb step0" data-src="step0" data-target=".step0">Choose Fence Type</span>
@@ -274,15 +274,13 @@ get_header();
       <!-- Start Step Two - Size (Height) -->
 
       <!-- Step 2 Vinyal Privacy-->
-        <div class="vinyl-privacy-step2 step2 choose-fence-step" data-src="Privacy" style="display:none;">
+        <div class="vinyl-privacy-step2 step2 choose-fence-step grid2" data-src="Privacy" style="display:none;">
           <h2>Vinyl Privacy</h2>
           <div class="start-pick container">
-              <section class="privacy-height-options">
-                <div class="grid2 row">
-                  <div class="col-6 selectable" data-target="vinyl-privacy-accent-step3">
+              <section class="privacy-height-options row">
+                  <div class="col-6 selectable" style="background-image:url('/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/privacy-with-accent/6-Privacy-Picket-Lattice-K-31-TAN.png') ;" data-target="vinyl-privacy-accent-step3">
                     <div class="overlay"></div>
                     <a class="draw-fence-final">Draw My Fence</a>
-                    <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/privacy-with-accent/6-Privacy-Picket-Lattice-K-31-TAN.png"> 
                     <span>Privacy with Accent</span>
                   </div>
                   
