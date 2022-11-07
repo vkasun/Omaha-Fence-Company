@@ -281,7 +281,7 @@ get_header();
                 <div class="grid2 row">
                   <div class="col-6 selectable" data-target="vinyl-privacy-accent-step3">
                     <div class="overlay"></div>
-                    <a>Draw My Fence</a>
+                    <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/privacy-with-accent/6-Privacy-Picket-Lattice-K-31-TAN.png"> 
                     <span>Privacy with Accent</span>
                   </div>
@@ -297,13 +297,13 @@ get_header();
                   <div class="col-6 selectable" 
                   data-target="vinyl-5ft-privacy-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/5-privacy/5-privacy-afc-005-White.jpg"> 
                     <span>5' Privacy</span>
                   </div>
                   <div class="col-6 selectable" data-target="vinyl-4ft-privacy-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/4-privacy/4-Privacy-AFC-001-Sandstone.png"> 
                     <span>4' Privacy</span>
                   </div>
@@ -325,13 +325,13 @@ get_header();
                   </div>
                   <div class="col-4 selectable" data-target="vinyl-6ft-semi-privacy-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/semi-privacy/5-semi-private.jpg"> 
                     <span>5' Semi-Privacy</span>
                   </div>
                   <div class="col-4 selectable" data-target="vinyl-5ft-semi-privacy-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/semi-privacy/4-semi private/4-Semi-Privacy-1-airspace-AFC-0304-Sandstone.jpg"> 
                     <span>4' Semi Privacy</span>
                   </div>
@@ -347,19 +347,19 @@ get_header();
                 <div class="grid3 row">
                 <div class="col-4 selectable"  data-target="vinyl-6ft-pciket-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/picket/6-picket-White.jpg"> 
                   <span>6' Picket</span>
                 </div>
                 <div class="col-4 selectable" data-target="vinyl-6ft-picket-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/picket/5-picket-white-copy.jpeg"> 
                   <span>5' Picket</span>
                 </div>
                 <div class="col-4 selectable" data-target="vinyl-5ft-picket-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/picket/4-picket-white - Copy get Khaki.jpg"> 
                   <span>4' Picket</span>
                 </div>
@@ -375,13 +375,13 @@ get_header();
                 <div class="grid2 row">
                 <div class="col-6 selectable" data-target="vinyl-5ft-closed-picket-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/closed-picket/5-closed-picket-fence-white - Copy need sandstone.jpg"> 
                   <span>5' Closed Picket</span>
                 </div>
                 <div class="col-6 selectable" data-target="vinyl-4ft-closed-picket-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/closed-picket/4-closed-picket-white - Copy need khaki.jpg"> 
                   <span>4' Closed Picket</span>
                 </div>
@@ -397,19 +397,19 @@ get_header();
                 <div class="grid3 row">
                   <div class="col-4 selectable"  data-target="vinyl-6ft-overscallop-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/overscallop/6-overscallop-AFC-012-sandstone.jpg"> 
                     <span>6' Overscallop</span>
                   </div>
                   <div class="col-4 selectable" data-target="vinyl-5ft-overscallop-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/overscallop/5-overscallop.jpg"> 
                     <span>5' OverScallop</span>
                   </div>
                   <div class="col-4 selectable" data-target="vinyl-4ft-overscallop-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/overscallop/4-Overscallop-AFC-016-Tan - Copy-need khaki.jpg"> 
                     <span>4' OverScallop</span>
                   </div>
@@ -425,19 +425,19 @@ get_header();
                 <div class="grid3 row">
                 <div class="col-4 selectable"  data-target="vinyl-6ft-underscallop-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/underscallop/6-underscallop-white.jpg"> 
                   <span>6' Undercallop</span>
                 </div>
                 <div class="col-4 selectable" data-target="vinyl-5ft-underscallop-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/underscallop/5-underscalloped.jpeg"> 
                   <span>5' UnderScallop</span>
                 </div>
                 <div class="col-4 selectable" data-target="vinyl-4ft-underscallop-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/underscallop/4-underscallop-white.jpg"> 
                   <span>4' UnderScallop</span>
                 </div>
@@ -454,25 +454,25 @@ get_header();
                 <div class="grid2 row">
                   <div class="col-6 selectable"  data-target="ornamental-6ft-steel-flat-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top.jpg"> 
                     <span>6' Flat Top</span>
                   </div>
                   <div class="col-6 selectable" data-target="ornamental-5ft-steel-flat-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top/5-steel-flat-top.jpg"> 
                     <span>5' Flat Top</span>
                   </div>       
                   <div class="col-6 selectable" data-target="ornamental-4ft-steel-flat-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top/4-steel-flat-top.jpg"> 
                     <span>4' Flat Top</span>
                   </div>
                   <div class="col-6 selectable" data-target="ornamental-3ft-steel-flat-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top/3-steel-flat-top.jpg"> 
                     <span>3' Flat Top</span>
                   </div>
@@ -489,19 +489,19 @@ get_header();
                 <div class="grid3 row">
                 <div class="col-4 selectable"  data-target="ornamental-6ft-steel-spear-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/spear-top/6-steel-spear-top.jpg"> 
                   <span>6' Spear Top</span>
                 </div>
                 <div class="col-4 selectable" data-target="ornamental-5ft-steel-spear-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/spear-top/5-steel-spear-top.jpg"> 
                   <span>5' Spear Top</span>
                 </div>
                 <div class="col-4 selectable" data-target="ornamental-4ft-steel-spear-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/spear-top/4-steel-spear-top.jpg"> 
                   <span>4' Spear Top</span>
                 </div>
@@ -517,19 +517,19 @@ get_header();
                 <div class="grid3 row">
                 <div class="col-4 selectable"  data-target="ornamental-6ft-aluminum-flat-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top/6-aluminum-flat-top.jpg"> 
                   <span>6' Flat Top</span>
                 </div>
                 <div class="col-4 selectable" data-target="ornamental-5ft-aluminum-flat-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top/5-aluminum-flat-top.jpg"> 
                   <span>5' Flat Top</span>
                 </div>
                 <div class="col-4 selectable" data-target="ornamental-4ft-aluminum-flat-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/flat-top/4-aluminum-flat-top.jpg"> 
                   <span>4' Flat Top</span>
                 </div>
@@ -546,19 +546,19 @@ get_header();
                 <div class="grid3 row">
                 <div class="col-4 selectable"  data-target="ornamental-6ft-aluminum-spear-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/spear-top/6-aluminum-spear-top.jpg"> 
                   <span>6' Spear Top</span>
                 </div>
                 <div class="col-4 selectable" data-target="ornamental-5ft-aluminum-spear-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/spear-top/5-aluminum-spear-top.jpg"> 
                   <span>5' Spear Top</span>
                 </div>
                 <div class="col-4 selectable" data-target="ornamental-4ft-aluminum-spear-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/ornamental/spear-top/4-aluminum-spear-top.jpg"> 
                   <span>4' Spear Top</span>
                 </div>
@@ -582,7 +582,7 @@ get_header();
                   </div>
                   <div class="col-6 selectable" data-target="wood-4ft-solid-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/solid/4-Solid-Cedar.jpg"> 
                     <span>4' Solid</span>
                   </div>
@@ -668,55 +668,55 @@ get_header();
                 <div class="grid3 row">
                   <div class="col-4 selectable"  data-target="commercial-galvanized-36ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>36' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-42ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>42' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-48ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>48' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-60ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>60' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-72ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>72' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-84ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>84' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-96ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>96' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-120ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>120' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="commercial-galvanized-144ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat5.jpg"> 
                     <span>144' Chain Link</span>
                   </div>
@@ -733,31 +733,31 @@ get_header();
                 <div class="grid3 row">
                   <div class="col-4 selectable"  data-target="residential-galvanized-36ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat2.jpg"> 
                     <span>36' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="residential-galvanized-42ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat2.jpg"> 
                     <span>42' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="residential-galvanized-48ft-step3">
                     <div class="overlay"></div>
-                    <a>Draw My Fence</a>
+                    <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat2.jpg"> 
                     <span>48' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="residential-galvanized-60ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat2.jpg"> 
                     <span>60' Chain Link</span>
                   </div>
                   <div class="col-4 selectable"  data-target="residential-galvanized-72ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat2.jpg"> 
                     <span>72' Chain Link</span>
                   </div>
@@ -774,26 +774,26 @@ get_header();
                 <div class="grid2 row">
                   <div class="col-6 selectable"  data-target="vinyal-coated-residential-42ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat4.jpg"> 
                     <span>42' Vinyl Coated Chain Link</span>
                   </div>
                   <div class="col-6 selectable"  data-target="vinyal-coated-residential-48ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat4.jpg"> 
                     <span>48' Vinyl Coated Chain Link</span>
                   </div>
           
                   <div class="col-6 selectable"  data-target="vinyal-coated-residential-60ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat4.jpg"> 
                     <span>60' Vinyal Coated Chain Link</span>
                   </div>
                   <div class="col-6 selectable"  data-target="vinyal-coated-residential-72ft-step3">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat4.jpg"> 
                     <span>72' Vinyal Coated Chain Link</span>
                   </div>
@@ -810,13 +810,13 @@ get_header();
                 <div class="grid2 row">
                 <div class="col-6 selectable"  data-target="vinyal-coated-commercial-48ft-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat4.jpg"> 
                   <span>48' Vinyl Coated Chain Link</span>
                 </div>
                 <div class="col-6 selectable"  data-target="vinyal-coated-commercial-72ft-step3">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="https://cdn.shopify.com/s/files/1/2393/7423/files/cat4.jpg"> 
                   <span>72' Vinyal Coated Chain Link</span>
                 </div>
@@ -834,14 +834,14 @@ get_header();
                 <div class="grid2 row">
                 <div class="col-6 selectable" data-target="vinyl-6ft-privacy-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/6-privacy/6-Privacy-K-373-Khaki.jpg"> 
                   <span>6' Privacy</span>
                 </div>
                 <div class="col-6 selectable" 
                 data-target="vinyl-6ft-woodland-privacy-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/5-privacy/5-privacy-afc-005-White.jpg"> 
                   <span>6' Woodland Series</span>
                 </div>
@@ -857,14 +857,14 @@ get_header();
                 <div class="grid2 row">
                 <div class="col-6 selectable" data-target="vinyl-6ft-semi-privacy-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/6-privacy/6-Privacy-K-373-Khaki.jpg"> 
                   <span>6' Semi Privacy</span>
                 </div>
                 <div class="col-6 selectable" 
                 data-target="vinyl-6ft-semi-privacy-airspace-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/vinyl/privacy/5-privacy/5-privacy-afc-005-White.jpg"> 
                   <span>6' Semi Privacy with 1" Airspace</span>
                 </div>
@@ -881,14 +881,14 @@ get_header();
                 <div class="grid2 row">
                   <div class="col-6 selectable" data-target="wood-6ft-solid-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/solid/6-Solid-WhiteFir.jpg"> 
                     <span>6' Solid</span>
                   </div>
                   <div class="col-6 selectable" 
                   data-target="wood-6ft-solid-custom-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/solid/6-Solid-4-Custom-Pickets-WhiteFir.jpg"> 
                     <span>6' Solid with Custom 4" Pickets</span>
                   </div>
@@ -905,14 +905,14 @@ get_header();
                 <div class="grid2 row">
                 <div class="col-6 selectable" data-target="wood-6ft-shadow-box-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/shadow-box/6-shadowbox-WhiteFir.jpg"> 
                   <span>6' Shadow Box</span>
                 </div>
                 <div class="col-6 selectable" 
                 data-target="wood-6ft-shadow-box-custom-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/shadow-box/6-shadowbox-custom-4-pickets-Whitefir.jpg"> 
                   <span>6' Shadow Box with Custom 4" Pickets</span>
                 </div>
@@ -928,14 +928,14 @@ get_header();
                 <div class="grid2 row">
                 <div class=" col-6 selectable" data-target="wood-4ft-shadow-box-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/shadow-box/4-shadowbox-custom-4-pickets-cedar.jpg"> 
                   <span>4' Shadow Box</span>
                 </div>
                 <div class="col-6 selectable" 
                 data-target="wood-4ft-shadow-box-custom-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/shadow-box/4-shadowbox-custom-6-pickets-cedar.jpg"> 
                   <span>4' Shadow Box with Custom 4" Pickets</span>
                 </div>
@@ -952,14 +952,14 @@ get_header();
                 <div class="grid2 row">
                     <div class="col-6 selectable" data-target="wood-6ft-picket-goth-step4">
                     <div class="overlay"></div>
-                    <a>Draw My Fence</a>
+                    <a class="draw-fence-final">Draw My Fence</a>
                       <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/6-French-Gothic.jpg"> 
                       <span>French Goth</span>
                     </div>
                   <div class="col-6 selectable" 
                   data-target="wood-6ft-picket-4-inch-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/6-Picket-4in-Pickets.jpg"> 
                     <span>6' Picket with 4' Pickets</span>
                   </div>
@@ -967,14 +967,14 @@ get_header();
                   <div class="col-6 selectable" 
                   data-target="wood-6ft-picket-alternating-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/6-picker-alternating.webp"> 
                     <span>6' Alternating Picket</span>
                   </div>
                   <div class="col-6 selectable" 
                   data-target="wood-6ft-picket-gap-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/6-Picket-1in-Gap.jpg"> 
                     <span>6' Picket W/1" Gap</span>
                   </div>
@@ -991,21 +991,21 @@ get_header();
                 <div class="grid3 row">
                   <div class="col-4 selectable" data-target="wood-4ft-picket-goth-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/4-French-Gothic-Fir.jpg"> 
                     <span>French Goth</span>
                   </div>
                   <div class="col-4 selectable" 
                   data-target="wood-4ft-picket-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/4-Picket-Cedar.jpg"> 
                     <span>4' Picket Fence</span>
                   </div>
                   <div class="col-4 selectable" 
                   data-target="wood-4ft-picket-capboard-step4">
                   <div class="overlay"></div>
-                  <a>Draw My Fence</a>
+                  <a class="draw-fence-final">Draw My Fence</a>
                     <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/picket wood/4-Picket-Capboard-fir.jpg"> 
                     <span>4' Picket W/Capboard</span>
                   </div>
@@ -1022,21 +1022,21 @@ get_header();
               <section class="privacy-height-options row">
                 <div class="col-4 selectable" data-target="wood-6ft-scalloped-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/scalloped-wood/6-Shadow-box-Scalloped-Fir.jpg"> 
                   <span>6' Shadow Box Scalloped</span>
                 </div>
                 <div class="col-4 selectable" 
                 data-target="wood-6ft-scalloped-solid-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/scalloped-wood/6-Solid-Scalloped-Fir.jpg"> 
                   <span>6' Solid Scalloped</span>
                 </div>
                 <div class="col-4 selectable" 
                 data-target="wood-6ft-scalloped-picket-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/scalloped-wood/6-Picket-Scalloped-Fir.jpg"> 
                   <span>6' Picket Scalloped</span>
                 </div>
@@ -1053,21 +1053,21 @@ get_header();
               <div class="grid3 row">
                 <div class="col-4 selectable" data-target="wood-4ft-scalloped-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/scalloped-wood/4-Shadow-box-Scalloped-Cedar.jpg"> 
                   <span>4' Shadow Box Scalloped</span>
                 </div>
                 <div class="col-4 selectable" 
                 data-target="wood-4ft-scalloped-picket-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/scalloped-wood/4-Solid-Scalloped-Cedar.jpg"> 
                   <span>4' Solid Scalloped</span>
                 </div>
                 <div class="col-4 selectable" 
                 data-target="wood-4ft-picket-capboard-step4">
                 <div class="overlay"></div>
-                <a>Draw My Fence</a>
+                <a class="draw-fence-final">Draw My Fence</a>
                   <img src="/wp-content/themes/amfence/images/draw-my-fence-images/wood/scalloped-wood/4-Picket-Scalloped-Cedar.jpg"> 
                   <span>4' Picket Scalloped</span>
                 </div>
