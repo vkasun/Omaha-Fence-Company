@@ -3210,6 +3210,9 @@ ul.calculator-list > li {
     font-size:22px;
     font-weight:600;
 }
+.choose-fence-step h2{
+    text-align: center;
+}
 
 .type{
   display: flex;
@@ -3232,26 +3235,39 @@ ul.calculator-list > li {
 }
 .grid2 .selectable{
     max-width: 100%;
-    width: 50%; 
+    width: 50%;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
+.grid2 .selectable img{
+    width: 100%;
+    max-width: 420px;
+    aspect-ratio: 1/1;
+
 }
 
 .grid3 .selectable{
     max-width: 100%;
     width: 33%;
+    height: auto;
+    aspect-ratio: 1/1;
+}
+
+.grid3 .selectable img{
+    width: 100%;
+    max-width: 350px;
+    aspect-ratio: 1/1;
 }
 
 .selectable{
     position: relative;
     cursor: pointer;
-    padding: 5px;
 }
 .selectable img{
     width: 100%;
-    height: 95%;
-    max-height: 400px;
-    max-width: 500px;
+    height: 85%;
 }
-
 .selectable span{
     display: block;
 }
@@ -3271,27 +3287,14 @@ ul.calculator-list > li {
     margin-top: 10px;
     margin-bottom: 15px;
 }
-.selectable .overlay{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    max-height: 400px;
-    max-width: 500px;
-    background-color:rgba(0, 0, 0, 0.776);
-    opacity: 0.6;
-    z-index: 8;
-    display: none;
-}
+
 .grid2 .selectable .overlay{
     position: absolute;
     top: 0;
-    left: 0;
+    left: 3%;
     width: 100%;
-    height: 100%;
-    max-height: 410px;
-    max-width: 510px;
+    height: 85%;
+    max-width: 420px;   
     background-color:rgba(0, 0, 0, 0.776);
     opacity: 0.6;
     z-index: 8;
@@ -3300,11 +3303,10 @@ ul.calculator-list > li {
 .grid3 .selectable .overlay{
     position: absolute;
     top: 0;
-    left: 0;
+    left: 4%;
     width: 100%;
-    height: 95%;
-    max-height: 410px;
-    max-width: 500px;
+    height: 85%;
+    max-width: 350px;
     background-color:rgba(0, 0, 0, 0.776);
     opacity: 0.6;
     z-index: 8;
@@ -3313,7 +3315,6 @@ ul.calculator-list > li {
 
 .selectable:hover .overlay{
     display: block;
-    transition: all 5s;
 }
 
 .selectable a{
@@ -3343,7 +3344,7 @@ ul.calculator-list > li {
     padding-bottom: 15px;
 }
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1025px) {
     .grid{
         display: flex;
         flex-direction: column;
@@ -3354,7 +3355,7 @@ ul.calculator-list > li {
     .selectable:hover a{
         font-size: .8em;
         width: 50%;
-        left: 18%;
+        left: 23%;
         text-align: center;
         padding: 15px;
       }     
@@ -3372,12 +3373,6 @@ ul.calculator-list > li {
         font-size: 1.2rem;
         padding-bottom: 50px;
       }
-      .grid2 .selectable .overlay{
-        width: 100%;
-        height: 95%;
-        max-height: 410px;
-        max-width: 510px;
-    }
 }
 
 @media screen and (max-width:700px) {
@@ -3393,13 +3388,4 @@ ul.calculator-list > li {
         padding-bottom: 50px;
       }
       
-}
-@media screen and (max-width:625px) {
-    .selectable:hover a{
-        font-size: 8pt;
-        width: 70%;
-        left: 13%;
-        text-align: center;
-        padding: 15px;
-      }
 }

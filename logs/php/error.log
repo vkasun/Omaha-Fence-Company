@@ -461,3 +461,48 @@
 [07-Nov-2022 22:07:19 UTC] PHP   2. do_action_ref_array() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:138
 [07-Nov-2022 22:07:19 UTC] PHP   3. WP_Hook->do_action() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/plugin.php:524
 [07-Nov-2022 22:07:19 UTC] PHP   4. WP_Hook->apply_filters() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php:331
+[08-Nov-2022 13:56:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Amfence_Locations_Admin' does not have a method 'refresh_locations' in /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php on line 307
+[08-Nov-2022 13:56:55 UTC] PHP Stack trace:
+[08-Nov-2022 13:56:55 UTC] PHP   1. {main}() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:0
+[08-Nov-2022 13:56:55 UTC] PHP   2. do_action_ref_array() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:138
+[08-Nov-2022 13:56:55 UTC] PHP   3. WP_Hook->do_action() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/plugin.php:524
+[08-Nov-2022 13:56:55 UTC] PHP   4. WP_Hook->apply_filters() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php:331
+[08-Nov-2022 14:07:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Amfence_Locations_Admin' does not have a method 'refresh_locations' in /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php on line 307
+[08-Nov-2022 14:07:14 UTC] PHP Stack trace:
+[08-Nov-2022 14:07:14 UTC] PHP   1. {main}() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:0
+[08-Nov-2022 14:07:14 UTC] PHP   2. do_action_ref_array() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:138
+[08-Nov-2022 14:07:14 UTC] PHP   3. WP_Hook->do_action() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/plugin.php:524
+[08-Nov-2022 14:07:14 UTC] PHP   4. WP_Hook->apply_filters() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php:331
+[08-Nov-2022 14:27:30 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:30 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:33 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:33 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:34 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:34 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:35 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 14:27:35 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:12 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:12 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:16 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:16 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:16 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:17 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:06:17 UTC] Flywheel::DatabaseConnection
+[08-Nov-2022 15:08:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Amfence_Locations_Admin' does not have a method 'refresh_locations' in /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php on line 307
+[08-Nov-2022 15:08:10 UTC] PHP Stack trace:
+[08-Nov-2022 15:08:10 UTC] PHP   1. {main}() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:0
+[08-Nov-2022 15:08:10 UTC] PHP   2. do_action_ref_array() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:138
+[08-Nov-2022 15:08:10 UTC] PHP   3. WP_Hook->do_action() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/plugin.php:524
+[08-Nov-2022 15:08:10 UTC] PHP   4. WP_Hook->apply_filters() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php:331
+[08-Nov-2022 16:08:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Amfence_Locations_Admin' does not have a method 'refresh_locations' in /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php on line 307
+[08-Nov-2022 16:08:01 UTC] PHP Stack trace:
+[08-Nov-2022 16:08:01 UTC] PHP   1. {main}() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:0
+[08-Nov-2022 16:08:01 UTC] PHP   2. do_action_ref_array() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:138
+[08-Nov-2022 16:08:01 UTC] PHP   3. WP_Hook->do_action() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/plugin.php:524
+[08-Nov-2022 16:08:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php:331
+[08-Nov-2022 17:07:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Amfence_Locations_Admin' does not have a method 'refresh_locations' in /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php on line 307
+[08-Nov-2022 17:07:07 UTC] PHP Stack trace:
+[08-Nov-2022 17:07:07 UTC] PHP   1. {main}() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:0
+[08-Nov-2022 17:07:07 UTC] PHP   2. do_action_ref_array() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-cron.php:138
+[08-Nov-2022 17:07:07 UTC] PHP   3. WP_Hook->do_action() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/plugin.php:524
+[08-Nov-2022 17:07:07 UTC] PHP   4. WP_Hook->apply_filters() /Users/vanessa/Local Sites/omaha-fence-company/app/public/wp-includes/class-wp-hook.php:331
